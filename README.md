@@ -23,7 +23,7 @@ This project generates a full-length novel using the Gemini API. The generated n
 
 ## Usage
 
-1. Open the [novel_generator.ipynb](http://_vscodecontentref_/1) notebook in Jupyter Notebook or Jupyter Lab.
+1. Open the [`novel_generator.ipynb`](http://_vscodecontentref_/1) notebook in Jupyter Notebook or Jupyter Lab.
 2. Set your Gemini API key:
     ```python
     client = genai.Client(api_key="your_api_key")
